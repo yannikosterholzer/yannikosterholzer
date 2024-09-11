@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  schedule:
+    # Läuft einmal täglich um 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update GitHub Stats in README
+        run: |
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=yannikosterholzer&show_icons=true&theme=radical&count_private=true&token=${{ secrets.GH_TOKEN }}"
+      - name: Commit changes
+        run: |
+          git config --global user.name "yannikosterholzer"
+          git config --global user.email "your-email@example.com"
+          git add stats.svg
+          git commit -m "Updated GitHub Stats"
+          git push
