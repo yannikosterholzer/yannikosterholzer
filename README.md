@@ -10,5 +10,4 @@ Ich entwickle gerne in Assembler, C und HDLs.
 ![Verilog](https://img.shields.io/badge/-Verilog-6DA55F?logo=verilog&logoColor=white&style=for-the-badge)
 
 ## Stats
-![GitHub Stats](./stats.svg)
-![Top Langs](./top-langs.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannikosterholzer&layout=compact&theme=radical)
