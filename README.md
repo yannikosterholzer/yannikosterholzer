@@ -6,7 +6,7 @@ Ich entwickle gerne in Assembler, C und HDLs.
 ## Languages
 ![Assembler](https://img.shields.io/badge/-Assembler-525252?logo=assembler&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/-Verilog-6DA55F?logo=verilog&logoColor=white&style=for-the-badge)
 
 ## Stats
