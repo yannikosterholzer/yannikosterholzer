@@ -1,16 +1,14 @@
-## Hi there 👋
+# About Me
 
-<!--
-**yannikosterholzer/yannikosterholzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, ich bin Yannik! 👋  
+Ich entwickle gerne in C, Assembler und HDLs.
 
-Here are some ideas to get you started:
+## Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![Assembler](https://img.shields.io/badge/-Assembler-525252?logo=assembler&logoColor=white&style=for-the-badge)
+![Verilog](https://img.shields.io/badge/-Verilog-6DA55F?logo=verilog&logoColor=white&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannikosterholzer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannikosterholzer&layout=compact&theme=radical)
