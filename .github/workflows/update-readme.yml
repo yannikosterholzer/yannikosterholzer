@@ -3,7 +3,7 @@ name: Update README
 on:
   schedule:
     # Läuft einmal täglich um 00:00 UTC
-    - cron: "10 13 * * *"
+    - cron: "16 13 * * *"
   workflow_dispatch:
 
 jobs:
