@@ -9,10 +9,5 @@ Gemeinsam mit einer Kommilitonin habe ich im Rahmen eines Studienprojekts ein [T
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-6DA55F?style=for-the-badge)
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannikosterholzer&layout=compact&theme=radical)
-
-![Languages](https://metrics.lecoq.io/yannikosterholzer?template=classic&languages=1)
-
-## Languages
 ![Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yannikosterholzer&theme=radical)
 
