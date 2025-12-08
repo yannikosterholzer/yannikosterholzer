@@ -10,3 +10,5 @@ Gemeinsam mit einer Kommilitonin habe ich im Rahmen eines Studienprojekts ein [T
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannikosterholzer&layout=compact&theme=radical)
+
+![Metrics](https://metrics.lecoq.io/yannikosterholzer?template=classic)
