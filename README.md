@@ -1,5 +1,5 @@
 ## Projekte
-Gemeinsam mit einer Kommilitonin habe ich im Rahmen eines Studienprojekts ein [Tutorial](https://assemblingpi.github.io/) für ARM-Assembler erstellt. Es behandelt grundlegende und fortgeschrittene Konzepte der Low-Level-Programmierung, einschließlich Floating Point und SIMD-Programmierung (NEON). 
+Gemeinsam mit einer Kommilitonin habe ich im Rahmen des Bachelorstudiums an der TH-Nürnberg in einem Studienprojekt ein [Tutorial](https://assemblingpi.github.io/) für ARM-Assembler erstellt. Es behandelt grundlegende und fortgeschrittene Konzepte der Programmierung in Assembler, einschließlich Floating Point und SIMD-Programmierung (NEON). 
 
 ## Languages
 ![Assembler](https://img.shields.io/badge/-Assembler-525252?logo=assembler&logoColor=white&style=for-the-badge)
