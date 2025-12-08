@@ -10,7 +10,3 @@ Gemeinsam mit einer Kommilitonin habe ich im Rahmen eines Studienprojekts ein [T
 
 ## Stats
 ![Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yannikosterholzer&theme=radical)
-
-![All Languages](https://metrics.lecoq.io/yannikosterholzer?template=classic&languages=1&languages.limit=100&languages.threshold=0%)
-
-
