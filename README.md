@@ -10,5 +10,3 @@ Gemeinsam mit einer Kommilitonin habe ich im Rahmen des Bachelorstudiums an der 
 ![Verilog](https://img.shields.io/badge/-Verilog-6DA55F?logo=verilog&logoColor=white&style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-6DA55F?style=for-the-badge)
 
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannikosterholzer&layout=compact&theme=radical)
