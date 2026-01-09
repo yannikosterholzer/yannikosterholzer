@@ -9,4 +9,4 @@ Gemeinsam mit einer Kommilitonin habe ich im Rahmen des Bachelorstudiums an der 
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-6DA55F?style=for-the-badge)
 
 ## Stats
-![Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yannikosterholzer&theme=radical)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yannikosterholzer&theme=radical)
