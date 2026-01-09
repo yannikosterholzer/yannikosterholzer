@@ -1,4 +1,6 @@
 ## Projekte
+Im Rahmen meines Masterstudiums an der FH-Kärnten habe ich damit begonnen einen RISC-V Prozessor zu entwickeln und möchte diesen in Zukunft schrittweise erweitern.
+
 Gemeinsam mit einer Kommilitonin habe ich im Rahmen des Bachelorstudiums an der TH-Nürnberg in einem Studienprojekt ein [Tutorial](https://assemblingpi.github.io/) für ARM-Assembler erstellt. Es behandelt grundlegende und fortgeschrittene Konzepte der Programmierung in Assembler, einschließlich Floating Point und SIMD-Programmierung (NEON). 
 
 ## Languages
